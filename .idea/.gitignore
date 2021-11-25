@@ -6,3 +6,7 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/Git项目.iml
+/misc.xml
+/modules.xml
+/vcs.xml
